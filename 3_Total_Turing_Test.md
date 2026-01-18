@@ -135,4 +135,4 @@ This represents the goal of **<abbr title="AI that can do any intellectual task 
 ---
 
 **Previous:** [← Turing Test](2_Turing_Test.md)
-<!-- | **Next:** [Total Turing Test →](3_Total_Turing_Test.md) -->
+| **Next:** [Intelligent Agents →](4_Intelligent_Agents.md)
