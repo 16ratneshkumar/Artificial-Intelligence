@@ -45,5 +45,4 @@ To design an intelligent agent, we define its **PAGE** descriptor:
 
 ---
 
-**Previous:** [← Environment Properties](6_Environment_Properties.md)
- <!-- | **Next:** [Agent Types →](5_Agent_Types.md) -->
+**Previous:** [← Environment Properties](6_Environment_Properties.md) | **Next:** [PEAS Description →](8_PEAS_Description.md)
